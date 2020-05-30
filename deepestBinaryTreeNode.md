@@ -33,7 +33,7 @@ c.left = e;
 
 findDeepest(a) //Result: f
 ```
-<img src= "binTreeEx.png" width=25% >
+<img src= "binTreeEx.png" width=40% >
 ---
 
 ## Interviewer Guide
